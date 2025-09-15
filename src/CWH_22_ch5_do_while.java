@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CWH_22_ch4_do_while {
+public class CWH_22_ch5_do_while {
     public static void main(String[] args) {
         int a = 1;
         do{
